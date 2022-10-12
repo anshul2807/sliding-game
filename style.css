@@ -1,3 +1,6 @@
+body{
+ background-color:yellow;
+}
 .container{
     margin: 50px auto;
     display: flex;
